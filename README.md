@@ -1,5 +1,11 @@
 # Drum Kit
 Built a very simple drum kit using HTML, CSS and Javascript only.
+
+## Site is live at
+```
+ https://aayush-bhargav.github.io/DrumKit/
+```
+
 ## Install 
 Clone the repo using
 ```
